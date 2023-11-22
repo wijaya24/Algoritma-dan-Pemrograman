@@ -1,0 +1,14 @@
+# Reflan Guntia Wijaya_2309076040_Teknik Elektro
+# Program mengurutkan bilangan descending dan ascending
+
+# Menentukan list numbers
+numbers = [10, 5, 3, 9, 1, 7, 4, 2, 6, 8]
+
+# Mengurutkan list numbers
+ascending = sorted(numbers)
+descending = sorted(numbers, reverse=True)
+
+# Mencetak hasil
+print( "List Numbers:", numbers)
+print("Ascending:", ascending)
+print("Descending:", descending)
