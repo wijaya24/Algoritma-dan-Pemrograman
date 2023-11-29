@@ -3,6 +3,7 @@
 import random
 import os
 
+# Membuka file random
 def main():
     outfile = open("random.txt", "w")
     for i in range (100):
@@ -39,6 +40,7 @@ def main():
     print("\n")
     print("="*60)
 
+# Menyatakan bilangan ganjil dan genap
     bilangan_genap = [x for x in angka if x% 2== 0]
     bilangan_ganjil = [x for x in angka if x% 2!= 0]
 
@@ -60,6 +62,7 @@ def main():
     print("\n")
     print("="*60)
 
+# Mencetak bilangan ganjil dan genap
 def print_numbers(angka):
     num_printed = 0
     for x in angka:
