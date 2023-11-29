@@ -1,3 +1,5 @@
+# Reflan Guntia Wijaya_2309076040_Teknik Elektro
+# Program membuat file bilangan random 
 import random
 import os
 
