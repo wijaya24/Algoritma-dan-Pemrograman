@@ -1,6 +1,5 @@
 # Reflan Guntia Wijaya_2309076040_Teknik Elektro
 # Program menentukan bilangan ganjil dan genap
-
 # Menentukan bilangan ganjil dan genap
 bilangan = int(input("Masukan bilangan: "))
 
